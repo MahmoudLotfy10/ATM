@@ -1,5 +1,4 @@
-#ATM
--can
+ATM
 1----create new account
 2----Deposit
 3----transfer to another account
