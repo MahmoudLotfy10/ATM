@@ -1,4 +1,4 @@
-# ATM.  
+# ATM    
 Create a new account.  
 Deposit.   
 Transfer to another account.    
